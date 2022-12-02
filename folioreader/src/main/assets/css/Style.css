@@ -80,8 +80,8 @@ a { -webkit-touch-callout: none; } /* Disable link callback */
 * { -webkit-user-select: text; }
 img { -webkit-user-select: none; }
 p {
-    margin: 1.3em 0 1.5em 0;
-    line-height: 0.5em !important;
+    margin: 1em 0 1em 0;
+    line-height: 1em !important;
     text-indent: 1.25em;
 }
 b, strong, th {font-weight: bolder !important;}
@@ -279,27 +279,27 @@ font-family: "raleway", sans-serif !important;
 
 h1 {
 font-size: 2em !important;
-line-height: 0.8;
+line-height: 1;
 }
 h2 {
 font-size: 1.5em !important;
-line-height: 0.8;
+line-height: 1;
 }
 h3 {
 font-size: 1.17em !important;
-line-height: 0.8;
+line-height: 1;
 }
 h4 {
 font-size: 1em !important;
-line-height: 0.8;
+line-height: 1;
 }
 h5 {
 font-size: 0.83em !important;
-line-height: 0.8;
+line-height: 1;
 }
 h6 {
 font-size: 0.67em !important;
-line-height: 0.8;
+line-height: 1;
 }
 body {
 word-break: break-word !important;
@@ -308,7 +308,7 @@ hyphens: auto !important;
 }
 p, span, div {
 font-size: 1em !important;
-line-height: 0.8 !important;
+line-height: 1 !important;
 }
 @media only screen and (min-device-width: 600px) {
     div {
